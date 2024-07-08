@@ -1,2 +1,1 @@
-# PrepCouse-Henry
-repositorio de prueba mod 2 de Henry
+proyecto de repositorio y como clonarlo desde github
